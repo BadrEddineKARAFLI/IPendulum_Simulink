@@ -34,7 +34,7 @@ This MATLAB & Simulink project models and controls an **Inverted Pendulum on a C
    ```matlab
    % From MATLAB prompt:
    run('Init_Setup.m');  % computes gains & initializes all parameters
-````
+
 
 2. **Run simulation**
 
