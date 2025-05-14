@@ -65,7 +65,7 @@ Modify values, then rerun `Init_Setup.m` to apply.
 
 This diagram displays all system blocks and the logic that governs transitions between swing-up and balance control.
 
-![Complete Simulink Model](full_model.png)
+![Complete Simulink Model](IP_Model_Control.png)
 
 > Full Simulink diagram: energy-shaping, PFL, and LQR subsystems
 
