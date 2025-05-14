@@ -61,9 +61,21 @@ Modify values, then rerun `Init_Setup.m` to apply.
 
 ## 📊 Examples & Visualization
 
-![Closed-Loop Response](docs/gifs/closed_loop.gif)
+### Full Simulink Model
 
-> Smooth swing-up followed by stable balancing under LQR control.
+This diagram displays all system blocks and the logic that governs transitions between swing-up and balance control.
+
+![Complete Simulink Model](full_model.png)
+
+> Full Simulink diagram: energy-shaping, PFL, and LQR subsystems
+
+### Closed-Loop Performance
+
+The following plot captures the complete control cycle—from initial swing-up using energy shaping to LQR-based stabilization.
+
+![Closed-Loop Response](IP_Model_ControlledResp.png)
+
+> Closed-loop simulation: smooth transition and balance at upright position
 
 ## 🛠️ Contributing
 
