@@ -1,4 +1,4 @@
-````markdown
+
 # Inverted Pendulum Simulation & Control 🎢🔧
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Badredenyx/IPendulum_Simulink/actions)
